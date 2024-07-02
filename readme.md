@@ -1,4 +1,4 @@
-#Welcome to Quantum Magic!
+# Welcome to Quantum Magic!
 
 Quantum magic is a simple puzzle game, where the player creates quantum logical circuits in the form of potion recipes.
 These recipes are required to fulfill specific tasks. Based on the performance a score is calculated.
