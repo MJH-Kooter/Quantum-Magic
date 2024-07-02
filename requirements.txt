@@ -1,8 +1,9 @@
 coreapi==2.3.3
-numpy==1.26.4
 pygame==2.5.2
 pygame_ce==2.4.1
-qilib==0.3.12
-recommonmark==0.7.1
-setuptools==70.0.0
-sphinx_rtd_theme==2.0.0
+pygame_chart==1.0.0
+quantuminspire==2.3.0
+csv
+math
+threading
+importlib
