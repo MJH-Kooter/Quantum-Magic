@@ -23,7 +23,7 @@ run = True
 L = None
 selectedLVL = 0
 result_thread = None
-help_on = True
+help_on = False
 
 #Backend lists
 obj_list = []
